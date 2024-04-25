@@ -1,0 +1,10 @@
+.DS_Store
+.idea
+.vscode
+*.o
+build
+a.out
+pruebas_chanutron
+pruebas_alumno
+ejemplo
+shared.map
